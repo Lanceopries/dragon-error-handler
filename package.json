@@ -1,0 +1,23 @@
+{
+  "name": "dragon-error-handler",
+  "version": "1.0.0",
+  "description": "Simple error handler, for your http requests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lanceopries/dragon-error-handler.git"
+  },
+  "keywords": [
+    "error",
+    "handler"
+  ],
+  "author": "Mikhail Martsinyuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lanceopries/dragon-error-handler/issues"
+  },
+  "homepage": "https://github.com/Lanceopries/dragon-error-handler#readme"
+}
